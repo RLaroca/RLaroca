@@ -1,5 +1,5 @@
-#Information Technology Student
-##Looking for job and expirience
+# Information Technology Student
+## Looking for job and expirience
 - HTML and CSS
 - Javascript
 - PHP
