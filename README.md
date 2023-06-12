@@ -1,5 +1,5 @@
 # Information Technology Student
-## Looking for job and expirience
+## Looking for job and experience
 - HTML and CSS
 - Javascript
 - PHP
@@ -8,7 +8,7 @@
 - PostgreSQL
 - MySQL
 - GIT
-- SCRUM
+- Java
 
 <!---
 RLaroca/RLaroca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
