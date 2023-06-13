@@ -1,4 +1,4 @@
-# Information Technology Student
+# Technology Student
 ## Looking for job and experience
 - HTML and CSS
 - Javascript
