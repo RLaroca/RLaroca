@@ -1,4 +1,4 @@
-# Technology Student
+#  Web Developer
 ## Looking for job and experience
 - HTML and CSS
 - Javascript
