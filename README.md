@@ -28,7 +28,7 @@ Since as a kid i was fascinated for robotics, eletronics and programation, so he
 ![RASPBERRYPI](https://img.shields.io/badge/-RASPBERRY%20PI-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)
 
 * ### How to find me: 
-[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-lightgreen?style=for-the-badge&logo=gitbook&logoColor=white)]([www.linkedin.com/in/rafaellaroca](https://www.linkedin.com/in/rafaellaroca/))
+[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-lightgreen?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.linkedin.com/in/rafaellaroca/)
 [![GITHUB](https://img.shields.io/badge/-GITHUB-lightgreen?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/RLaroca)
 [![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-lightgreen?style=for-the-badge&logo=gitbook&logoColor=white)](https://wa.me/+542235058552)
 [![EMAIL](https://img.shields.io/badge/-EMAIL-lightgreen?style=for-the-badge&logo=gitbook&logoColor=white)](mailto:rafaellaroca@gmail.com)
