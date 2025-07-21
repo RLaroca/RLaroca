@@ -26,7 +26,7 @@ Since as a kid i was fascinated for robotics, eletronics and programation, so he
 * ### How to find me: 
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-lightgreen?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.linkedin.com/in/rafaellaroca/)
 [![GITHUB](https://img.shields.io/badge/-GITHUB-lightgreen?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/RLaroca)
-[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-lightgreen?style=for-the-badge&logo=gitbook&logoColor=white)](https://wa.me/+542235058552)
+[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-lightgreen?style=for-the-badge&logo=gitbook&logoColor=white)](https://wa.me/+5548991030198)
 [![EMAIL](https://img.shields.io/badge/-EMAIL-lightgreen?style=for-the-badge&logo=gitbook&logoColor=white)](mailto:rafaellaroca@gmail.com)
 
 
