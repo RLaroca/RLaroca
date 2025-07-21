@@ -3,10 +3,6 @@
 * ## 🎓 Graduated at Estácio de Sá University as System Analist and Developer
 
 <p>
-Talking a little about me: I am married with a wonderfull woman, with who built a very nice life with some travels, life changes, little and big puppys!
-</p>
-
-<p>
 Since as a kid i was fascinated for robotics, eletronics and programation, so here i am! 🚀
 </p>
 
