@@ -1,9 +1,11 @@
-#  Hello! I'm Rafael Laroca a fullstack developer...
-* ## ❤️ In love with technology since ever
+#  Hello! I'm Rafael Laroca, a fullstack developer...
 * ## 🎓 Graduated at Estácio de Sá University as System Analist and Developer
+* ## 📸 Fotografer
+* ## 📈 Entrepreuner
+
 
 <p>
-Since as a kid i was fascinated for robotics, eletronics and programming, so here i am! 🚀
+Since as a kid i was fascinated for robotics, eletronics and programming, so, here i am! 🚀
 </p>
 
 * ### My interests: 
