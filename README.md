@@ -3,7 +3,7 @@
 * ## 🎓 Graduated at Estácio de Sá University as System Analist and Developer
 
 <p>
-Since as a kid i was fascinated for robotics, eletronics and programation, so here i am! 🚀
+Since as a kid i was fascinated for robotics, eletronics and programming, so here i am! 🚀
 </p>
 
 * ### My interests: 
