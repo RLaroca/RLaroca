@@ -5,7 +5,7 @@
 
 
 <p>
-Since as a kid i was fascinated for robotics, eletronics and programming, so, here i am! 🚀
+Since as a kid i was fascinated for technology, business, music and photos, so, here i am! 🚀
 </p>
 
 * ### My interests: 
